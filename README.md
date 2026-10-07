@@ -1,3 +1,3 @@
 # DIABETES-RISK-PREDICTION--MINI-PROJECT
 DIABETES RISK PREDICTION
-https://docs.google.com/spreadsheets/d/1LF4slP-cc_fDJIju540YQWNyMGvkeUak/edit?usp=sharing&ouid=101705644397734551505&rtpof=true&sd=true
+https://drive.google.com/drive/folders/1qN55o-5lOVg8_yQwXRFXLVhmPRT2RS9j?usp=sharing
